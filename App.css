@@ -1,0 +1,68 @@
+* { 
+  margin: auto
+}
+body 
+{ background-image: url("https://source.unsplash.com/weekly?students") ;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.App
+ { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-align: center;}
+.full
+   { width: 100%; 
+    height: 100vh; 
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}  .glassnav
+     { background-color:mediumturquoise; 
+      overflow: hidden;
+       padding-top: 10px; 
+       padding-bottom: 10px;
+      }
+       
+       .but { 
+         float: right; 
+        padding-right: 5%;
+      }
+        
+        .icon
+        { font-size: 2rem;
+           font-weight: 700;
+            margin-left: 4rem; 
+            margin-top: 10px;
+             color:black;
+            } 
+            .Btn
+             { border: 2px solid whitesmoke;
+               border-radius: 25px; 
+              background-color: black;
+               width: 8rem;
+                height: 2rem;
+                 font-size: 20px;
+                  color: whitesmoke; 
+                  font-weight: 600;}
+                  
+                  .Btn:hover
+                   { background:transparent; 
+                    color: white;}
+                    .text 
+                    { text-align: center;
+                       margin-top: 8%; 
+                       font-size: 200%;
+                        color: white;}
+                         .loader 
+                         {
+                            width: 100px;
+                             height: 100px;
+                              border-radius: 50%;
+                               display: block;
+                                margin: 50px auto;
+                                 position: relative; 
+                                 box-sizing: border-box;
+                                  margin-bottom: 0px;} 
+                                  .h4 
+                                  { text-align: center; 
+                                    margin-top: 10%; 
+                                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+                                    font-size: 300%;
+                                     color: black;
+                                    font-style: italic;}
